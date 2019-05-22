@@ -9,7 +9,8 @@ Explained how to create awesome Login and SignUp screen. There are following fun
 For detailed explanation of code, [visit here](http://www.androhub.com/login-signup-and-forgot-password-screen-design-android/).
 
 # Video Demo
-👉 Watch it <a href="https://youtu.be/HKtbjlkzNfE">here</a>.
+👉 Watch it 
+<iframe width="650" height="450" src="https://www.youtube.com/embed/HKtbjlkzNfE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 [![Watch demo](http://i3.ytimg.com/vi/HKtbjlkzNfE/hqdefault.jpg)](https://youtu.be/HKtbjlkzNfE)
